@@ -1,0 +1,70 @@
+body{
+    background-color: dimgrey;
+}
+p{
+    font-size: 50px;
+    color: yellow
+}
+.ex1{
+    font-family: cursive;
+    color: blue;
+    text-shadow: 2px 3px white;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: blue;
+    text-underline-position: under;
+ 
+}
+.ex2{
+    font-family: 'Raleway', sans-serif; 
+    color: lime;
+    text-decoration: underline;
+   
+   
+}
+.ex3{
+    font-family: 'Shantell Sans';
+    color: darkred;
+    font-size: 50px;
+    text-decoration: underline;
+    text-shadow: 2px 3px white;
+    font-weight: 900;
+}
+.ex4{
+    font-family: 'Raleway', sans-serif;
+    color: magenta;
+    text-shadow: 2px 3px blue;
+    font-weight: 900;
+}
+.ex5{
+    font-family: 'Smokum';
+    color: darkcyan;
+    font-size: 70px;
+    text-shadow: 2px 3px darkblue;
+    font-weight: 100;
+    letter-spacing: 10px;
+    letter-spacing: 10px;
+    font-size: 5.5em;
+    }
+    
+.ex6{
+    font-family: 'Caveat';
+    color: chocolate;
+    text-shadow: black;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: white;
+    text-underline-position: under;
+}
+.ex7{
+    font-family: 'Smokum', cursive;
+    text-decoration: underline;
+    text-decoration-color: lightseagreen;
+    color: lawngreen;
+    text-shadow: 3px 4px black;
+   
+}
+
+
+
+
